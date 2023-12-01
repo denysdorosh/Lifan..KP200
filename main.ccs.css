@@ -1,0 +1,201 @@
+font-face {
+    font-family: "Roboto";
+    src:url("C:\Users\denus\OneDrive\Рабочий стол\ПАКТИЧНІ\ІНФОРМАТИКА\№7\Roboto-Bold.ttf") 
+    format("truetype");
+}
+.l1{
+    font-size: "Roboto";
+    padding-left: 100px;
+    font-size: 30px;
+    white-space: normal; 
+}
+.block1{
+    background-color: #CCCCCC;
+    padding: 100px;
+    white-space: nowrap;
+    font-size: 30px;
+}
+.blok3{
+
+    margin-top: 20px;
+    white-space: normal;   
+    width: 30%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.blok4{
+    margin-top: 20px;
+    white-space: normal;   
+    width: 30%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.blok5{
+    margin-top: 20px;
+    white-space: normal;   
+    width: 30%;
+    margin-right: 100%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.block2{
+    padding: 100px;
+    white-space: nowrap;
+    font-size: 30px;
+}
+.blok6{
+    border-radius: 30px;
+}
+.block3{
+    background-color: #CCCCCC;
+    padding: 100px;
+    white-space: nowrap;
+    font-size: 30px;
+}
+.block4{
+    padding-left: 100px;
+    background-color: #ffffff;
+    white-space: nowrap;
+    font-size: 30px;
+}
+.blok7{
+    margin-top: 20px;
+    white-space: normal;   
+    width: 30%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.blok8{
+    margin-top: 20px;
+    white-space: normal;   
+    width: 30%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.blok9{
+    margin-top: 20px;
+    white-space: normal;   
+    width: 30%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+.blo2{
+    margin-top: 20px;
+    white-space: normal;   
+    width: 30%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.blo3{
+    margin-top: 20px;
+    white-space: normal;   
+    width: 30%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.blo4{
+    margin-top: 20px;
+    white-space: normal;   
+    width: 30%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.bl{
+    padding-left: 100px;
+    background: #ffffff;
+    font-size: 30px;
+    white-space: normal; 
+}
+.bl1{
+    padding-left: 100px;
+    background: #ffffff;
+    font-size: 30px;
+    white-space: normal; 
+}
+
+
+
+.blok43 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.blok54 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.blok65 {
+    background: #CCCCCC;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.blok74 {
+    background: #CCCCCC;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.l21{
+    padding-left: 100px;
+    background: #ffffff;
+    font-size: 30px;
+    white-space: normal;  
+}
+.tt{
+    margin-top: 20px;
+    white-space: normal;   
+    width: 100%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
